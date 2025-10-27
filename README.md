@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Reach Me
-- Email: yourname@email.com  
+- Email: joaquinameroy@gmail.com  
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
