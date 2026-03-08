@@ -41,11 +41,6 @@
   <table>
     <tr>
       <td><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" /></td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=joaquinmeroy&show_icons=true&theme=radical" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinmeroy&layout=compact&theme=radical" />
-      </td>
     </tr>
   </table>
 </div>
